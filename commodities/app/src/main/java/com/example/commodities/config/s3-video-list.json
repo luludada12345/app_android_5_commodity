@@ -1,0 +1,3138 @@
+{
+  "bucket": "test-s3-cloudfront-origin-001",
+  "totalFiles": 630,
+  "videoFiles": 626,
+  "generatedAt": "2025-07-28T07:13:22.011Z",
+  "videos": [
+    {
+      "key": "videos/202407__/DLYP0643.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202407__/DLYP0643.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202407__/IMG_8034.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202407__/IMG_8034.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202407__/IMG_8080.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202407__/IMG_8080.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202407__/IMG_8103.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202407__/IMG_8103.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202408__/AFFQ8689.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202408__/AFFQ8689.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202408__/IMG_8232.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202408__/IMG_8232.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202408__/IMG_8257.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202408__/IMG_8257.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202408__/IMG_8264.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202408__/IMG_8264.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202408__/IMG_8265.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202408__/IMG_8265.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202408__/IMG_8299.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202408__/IMG_8299.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410__/CADZ1587.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/CADZ1587.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/CPTH0748.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/CPTH0748.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/DPJA5471.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/DPJA5471.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/FHGL8905.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/FHGL8905.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/GUUD1398.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/GUUD1398.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/KDRX1298.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/KDRX1298.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/KJJR3479.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/KJJR3479.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/TOBU6489.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/TOBU6489.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/TQAW7999.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/TQAW7999.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/TUHE2134.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/TUHE2134.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/VLPN6233.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/VLPN6233.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/XBSU9718.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/XBSU9718.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/XPQT6305.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/XPQT6305.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410__/YHAU0353.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410__/YHAU0353.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/ABJJ6436.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/ABJJ6436.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/AVFC6437.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/AVFC6437.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/AVXY7768.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/AVXY7768.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/BDWR5712.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/BDWR5712.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/BIKD6299.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/BIKD6299.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/BVYB2210.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/BVYB2210.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/CIIC2528.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/CIIC2528.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/DUFA9004.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/DUFA9004.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/EBPO8521.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/EBPO8521.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/ESZF3747.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/ESZF3747.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/EVII0497.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/EVII0497.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/GMLR1712.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/GMLR1712.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/GOSU8041.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/GOSU8041.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/HEVA0337.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/HEVA0337.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/HHZK9980.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/HHZK9980.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/HUMT4600.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/HUMT4600.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2684.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2684.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2685.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2685.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2686.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2686.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2687.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2687.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2688.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2688.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2689.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2689.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2690.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2690.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2691.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2691.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2692.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2692.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2693.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2693.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2696.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2696.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2704.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2704.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2719.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2719.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2720.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2720.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2766.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2766.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2799.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2799.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2800.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2800.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2818.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2818.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2819.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2819.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2857.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2857.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2858.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2858.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2865.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2865.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2866.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2866.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2867.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2867.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2868.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2868.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2869.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2869.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2870.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2870.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2871.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2871.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2873.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2873.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2874.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2874.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2875.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2875.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2877.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2877.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2878.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2878.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2882.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2882.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2883.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2883.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2886.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2886.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2887.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2887.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2888.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2888.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2892.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2892.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2894.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2894.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2895.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2895.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2896.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2896.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IMG_2897.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IMG_2897.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/IYZT5630.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/IYZT5630.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/JDOA5960.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/JDOA5960.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/JLFL3438.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/JLFL3438.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/KITR9126.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/KITR9126.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/MHXR6037.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/MHXR6037.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/MWDF0047.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/MWDF0047.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/NWAT8018.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/NWAT8018.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/NZIS6378.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/NZIS6378.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/SFPB4534.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/SFPB4534.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/TGTZ9433.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/TGTZ9433.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/TYOG1108.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/TYOG1108.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/VFCM6093.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/VFCM6093.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202410_a/VQZH6355.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/VQZH6355.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/VSCJ3788.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/VSCJ3788.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202410_a/XPQT6305.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202410_a/XPQT6305.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/AEVJ9657.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/AEVJ9657.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/BMHI2545.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/BMHI2545.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/BNNG8243.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/BNNG8243.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/DBPA3012.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/DBPA3012.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/EYVR9217.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/EYVR9217.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/FBXM9492.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/FBXM9492.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/FCUG0327.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/FCUG0327.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/FEJR2201.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/FEJR2201.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/FKCO7237.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/FKCO7237.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/FNAT3165.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/FNAT3165.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/HJIQ0087.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/HJIQ0087.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/IMG_2987.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_2987.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_2993.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_2993.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_2994.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_2994.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3023.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3023.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3024.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3024.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3025.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3025.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3026.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3026.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3027.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3027.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3028.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3028.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3029.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3029.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3030.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3030.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3031.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3031.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3032.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3032.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3033.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3033.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3034.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3034.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3035.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3035.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3036.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3036.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3037.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3037.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3038.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3038.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3042.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3042.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3043.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3043.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3044.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3044.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3105.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3105.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3118.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3118.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3133.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3133.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3134.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3134.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3154.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3154.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3155.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3155.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/IMG_3156.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/IMG_3156.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202411__/JWNQ5244.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/JWNQ5244.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/LMWX4026.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/LMWX4026.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/NWYO2420.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/NWYO2420.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/OFLU9900.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/OFLU9900.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/OQBP0156.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/OQBP0156.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/QDTA6055.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/QDTA6055.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/QJDB4149.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/QJDB4149.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/RSGJ5730.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/RSGJ5730.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/SDVN9858.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/SDVN9858.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/SKLN1116.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/SKLN1116.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/TIXU5918.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/TIXU5918.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/TVEU7074.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/TVEU7074.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/VAXZ7288.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/VAXZ7288.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/WVKR7123.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/WVKR7123.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/WZDE3253.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/WZDE3253.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202411__/XIFI3439.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202411__/XIFI3439.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/ARBK0831.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/ARBK0831.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/ARYW1511.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/ARYW1511.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/BDKB4399.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/BDKB4399.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/GGKW7070.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/GGKW7070.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/IMG_3275.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3275.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3276.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3276.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3277.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3277.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3278.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3278.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3293.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3293.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3294.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3294.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3295.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3295.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3296.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3296.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3297.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3297.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3298.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3298.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3300.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3300.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3312.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3312.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3332.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3332.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3344.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3344.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3383.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3383.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3392.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3392.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3524.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3524.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3525.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3525.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3546.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3546.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3550.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3550.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3551.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3551.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3552.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3552.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IMG_3553.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IMG_3553.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202412__/IWOV5808.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IWOV5808.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/IWXO5283.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/IWXO5283.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/JCCX9781.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/JCCX9781.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/JQMY5583.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/JQMY5583.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/JXWL9829.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/JXWL9829.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/LPNY5615.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/LPNY5615.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/MURI6754.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/MURI6754.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/QRRY3527.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/QRRY3527.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/RZZB3045.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/RZZB3045.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/SPNZ9762.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/SPNZ9762.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/TCZN8461.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/TCZN8461.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/TOMJ2635.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/TOMJ2635.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/UGJW8597.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/UGJW8597.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/VAJW6696.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/VAJW6696.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202412__/WRRP2789.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202412__/WRRP2789.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202501__/GKUX4094.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202501__/GKUX4094.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202501__/IMG_3647.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202501__/IMG_3647.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202501__/IMG_3648.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202501__/IMG_3648.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202501__/IMG_3649.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202501__/IMG_3649.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202501__/MHDC8543.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202501__/MHDC8543.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202501__/OJGP5761.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202501__/OJGP5761.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202502__/CVGF0938.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202502__/CVGF0938.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202502__/TMSA1964.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202502__/TMSA1964.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202502__/UIIH6069.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202502__/UIIH6069.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202502__/VBDY1133.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202502__/VBDY1133.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/APKM5999.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/APKM5999.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/CJYA2491.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/CJYA2491.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/CMYW2380.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/CMYW2380.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/CZPO0497.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/CZPO0497.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/DHZK3590.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/DHZK3590.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/DMOX8189.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/DMOX8189.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/DZPS6863.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/DZPS6863.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/EAQL8569.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/EAQL8569.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/EEZA3650.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/EEZA3650.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/ENWC0453.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/ENWC0453.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/EPSA7773.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/EPSA7773.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/FNUH1617.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/FNUH1617.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/FYHC5545.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/FYHC5545.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/GZXN8325.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/GZXN8325.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/HAYF3716.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/HAYF3716.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/HQZI2397.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/HQZI2397.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/HUPX2616.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/HUPX2616.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/IMG_3992.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/IMG_3992.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/IQLQ8022.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/IQLQ8022.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/ISCV3095.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/ISCV3095.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/IVLZ2931.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/IVLZ2931.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/IYHN0382.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/IYHN0382.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/JJEX9947.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/JJEX9947.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/KBND9238.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/KBND9238.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/KQUC8216.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/KQUC8216.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/LCJM2953.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/LCJM2953.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/LTQV0061.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/LTQV0061.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/LZLA9321.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/LZLA9321.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/MTUP8740.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/MTUP8740.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/NDYB3999.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/NDYB3999.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/NFXT2509.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/NFXT2509.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/OIAK6904.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/OIAK6904.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/OMUH4335.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/OMUH4335.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/ONGH8912.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/ONGH8912.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/PUPA7253.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/PUPA7253.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/QDLT7732.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/QDLT7732.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/QROT3625.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/QROT3625.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/RALC2425.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/RALC2425.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/RJJU0108.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/RJJU0108.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/RKFQ3096.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/RKFQ3096.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/SWUZ1821.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/SWUZ1821.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/TUGZ0953.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/TUGZ0953.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/UECA2262.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/UECA2262.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/UXIQ1538.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/UXIQ1538.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/VZOM6450.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/VZOM6450.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/WGUW2925.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/WGUW2925.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202503__/WUQO4660.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/WUQO4660.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/WVFE8419.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/WVFE8419.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/XERL2217.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/XERL2217.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/XPZJ1346.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/XPZJ1346.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/XRUK7302.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/XRUK7302.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202503__/YJVI2040.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202503__/YJVI2040.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/AWDF4087.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/AWDF4087.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/DLBB1519.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/DLBB1519.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/FCHP8815.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/FCHP8815.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/HAWE8626.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/HAWE8626.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/HZQY8114.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/HZQY8114.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/IMG_4106.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/IMG_4106.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202504__/IMG_4107.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/IMG_4107.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202504__/IMG_4108.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/IMG_4108.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202504__/IMG_4125.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/IMG_4125.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202504__/IMG_4126.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/IMG_4126.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202504__/IMG_4127.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/IMG_4127.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202504__/IMG_4135.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/IMG_4135.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202504__/ISMS3653.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/ISMS3653.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/JJHO3384.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/JJHO3384.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/KWET5860.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/KWET5860.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/LGIL7379.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/LGIL7379.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/LSZR6597.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/LSZR6597.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/LZIO5660.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/LZIO5660.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/OZHL3647.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/OZHL3647.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/PCWE9154.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/PCWE9154.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/PSXX9834.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/PSXX9834.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/QBWI3423.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/QBWI3423.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/RWLK8118.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/RWLK8118.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/RXJS4808.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/RXJS4808.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/SXFA7487.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/SXFA7487.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/TMRP2699.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/TMRP2699.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/VOJZ1630.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/VOJZ1630.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/VVKO1446.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/VVKO1446.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/XLRD9620.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/XLRD9620.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/XWDT6930.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/XWDT6930.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202504__/YCWH1851.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202504__/YCWH1851.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ACFX4323.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ACFX4323.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ACNT0013.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ACNT0013.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/AFEZ7598.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/AFEZ7598.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/AHXP8040.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/AHXP8040.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/AKIK3161.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/AKIK3161.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ALDB6708.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ALDB6708.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202505__/AOAL3087.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/AOAL3087.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/AUOC0423.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/AUOC0423.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/AYVO6362.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/AYVO6362.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/BBEP1571.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/BBEP1571.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/BCZM2544.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/BCZM2544.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/BETN0394.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/BETN0394.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/BGDQ6880.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/BGDQ6880.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/BKLD4907.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/BKLD4907.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/BPOK1328.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/BPOK1328.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/BPTE6313.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/BPTE6313.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/BPYX5052.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/BPYX5052.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/CDXM0111.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/CDXM0111.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/CFJF1466.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/CFJF1466.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/CFXE1735.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/CFXE1735.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/CKAG4691.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/CKAG4691.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/CRCC2098.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/CRCC2098.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/DBLI4636.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/DBLI4636.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/DCHP7962.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/DCHP7962.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/DCJC4517.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/DCJC4517.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/DOCN4985.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/DOCN4985.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/DQIV9328.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/DQIV9328.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/DQMR2210.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/DQMR2210.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/DVCV0885.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/DVCV0885.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/DXEQ5883.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/DXEQ5883.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/EBDV8907.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/EBDV8907.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/EBMY9860.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/EBMY9860.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/EJJT6833.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/EJJT6833.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/EKWW3570.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/EKWW3570.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/EQCD0597.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/EQCD0597.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ETAP8725.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ETAP8725.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/EZWF5078.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/EZWF5078.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/FHRW7783.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/FHRW7783.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/FHXJ1107.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/FHXJ1107.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/FJZE7079.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/FJZE7079.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/FNQH4275.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/FNQH4275.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/FVOF8684.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/FVOF8684.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/FXJT5388.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/FXJT5388.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/GDTY2636.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/GDTY2636.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/GFHZ3469.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/GFHZ3469.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/GGFH2609.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/GGFH2609.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/GMGQ7672.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/GMGQ7672.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/GPPI0446.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/GPPI0446.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/HFTF7306.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/HFTF7306.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/HLIF8031.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/HLIF8031.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/HPHT2362.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/HPHT2362.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/HQMO5913.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/HQMO5913.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/HVSI7895.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/HVSI7895.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/HXLO2989.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/HXLO2989.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/HZHI9492.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/HZHI9492.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/HZRP5510.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/HZRP5510.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202505__/IMCG9639.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/IMCG9639.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/IRTE9229.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/IRTE9229.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ISCP2783.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ISCP2783.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/IYGK3569.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/IYGK3569.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/IYVN6496.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/IYVN6496.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/JGHT9120.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/JGHT9120.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/JXPW1931.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/JXPW1931.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/JZDO4698.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/JZDO4698.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/JZOB4454.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/JZOB4454.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KAJW5535.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KAJW5535.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KDDB2842.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KDDB2842.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202505__/KDNO8964.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KDNO8964.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KEZB8380.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KEZB8380.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KFZR5446.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KFZR5446.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KJLG8709.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KJLG8709.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KJPW9633.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KJPW9633.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KRWK0207.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KRWK0207.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KUMK1625.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KUMK1625.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KVHL8261.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KVHL8261.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/KWAY9802.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/KWAY9802.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/LGCZ1983.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/LGCZ1983.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/LHBG5953.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/LHBG5953.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/LQFM6400.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/LQFM6400.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/LSFY4279.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/LSFY4279.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202505__/LTBI1263.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/LTBI1263.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/LUPU2967.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/LUPU2967.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/MDKT0687.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/MDKT0687.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/MHTD4270.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/MHTD4270.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/MHVZ9840.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/MHVZ9840.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/MOBR5186.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/MOBR5186.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/MRJP7591.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/MRJP7591.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/MVHJ8629.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/MVHJ8629.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/NBHW7205.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/NBHW7205.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/NBMO6504.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/NBMO6504.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/NQWJ5980.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/NQWJ5980.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/NUZO0270.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/NUZO0270.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/NWZD0900.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/NWZD0900.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/NZHX0419.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/NZHX0419.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/OAVY1147.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/OAVY1147.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/OGFX0124.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/OGFX0124.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ONZQ4366.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ONZQ4366.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ORIN2475.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ORIN2475.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ORNL6904.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ORNL6904.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/OROQ4859.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/OROQ4859.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/OUQQ8449.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/OUQQ8449.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/OZLV8539.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/OZLV8539.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/PCHT9239.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/PCHT9239.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/PERT7402.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/PERT7402.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202505__/PEUN7297.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/PEUN7297.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/PREG7943.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/PREG7943.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/PUUD3148.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/PUUD3148.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/PXZF2358.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/PXZF2358.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/PYAL6521.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/PYAL6521.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QEON1639.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QEON1639.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QEPB8995.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QEPB8995.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QETQ9200.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QETQ9200.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QHIW2533.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QHIW2533.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QPXB6788.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QPXB6788.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QWFO0750.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QWFO0750.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QXIA7551.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QXIA7551.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QYOV8490.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QYOV8490.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QYSL9243.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QYSL9243.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/QYZL1002.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/QYZL1002.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RAMT7403.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RAMT7403.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RCAC7592.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RCAC7592.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RDYW0034.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RDYW0034.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RFBM3960.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RFBM3960.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RIEW9008.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RIEW9008.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RQED1959.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RQED1959.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RSJQ3849.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RSJQ3849.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RZHK1601.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RZHK1601.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RZTU8989.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RZTU8989.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/RZZD5999.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/RZZD5999.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/SAZQ4804.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/SAZQ4804.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/SDEO5853.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/SDEO5853.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/SGMD1768.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/SGMD1768.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/SJOL4688.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/SJOL4688.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/SVEJ3420.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/SVEJ3420.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/TAYN1924.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/TAYN1924.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/TBGF3937.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/TBGF3937.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/TDSM4404.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/TDSM4404.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/TFVJ8684.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/TFVJ8684.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/TMHP3546.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/TMHP3546.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/TQIE9792.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/TQIE9792.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/TRQX1473.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/TRQX1473.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/TZDX1840.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/TZDX1840.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/UBHE8146.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/UBHE8146.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ULAI1041.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ULAI1041.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/ULAV2012.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/ULAV2012.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/VADC9514.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/VADC9514.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/VDPG9922.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/VDPG9922.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/VFAT1184.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/VFAT1184.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/VGEW4810.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/VGEW4810.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/VPYP2815.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/VPYP2815.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/VRDQ5353.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/VRDQ5353.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/VSPZ8541.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/VSPZ8541.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/VVID3159.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/VVID3159.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/VVZA8366.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/VVZA8366.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/WHZQ7640.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/WHZQ7640.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/WTTM8278.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/WTTM8278.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/XBAJ2428.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/XBAJ2428.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/XBFY7289.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/XBFY7289.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/XGTX0983.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/XGTX0983.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/XHGL4958.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/XHGL4958.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/XIOL1401.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/XIOL1401.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202505__/XLSY2848.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/XLSY2848.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/XRUN0206.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/XRUN0206.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/XUZN0011.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/XUZN0011.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/YFEU7799.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/YFEU7799.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202505__/YGLT3009.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202505__/YGLT3009.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/ABZF6240.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/ABZF6240.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/ADRS3237.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/ADRS3237.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/AVBE7961.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/AVBE7961.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/AWHM7499.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/AWHM7499.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/AWSE1256.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/AWSE1256.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/BAUQ8377.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/BAUQ8377.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/BWLI0652.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/BWLI0652.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/CDTM8303.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/CDTM8303.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/CFJC1244.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/CFJC1244.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/CGJV4735.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/CGJV4735.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/CNAQ1202.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/CNAQ1202.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/CVOF0817.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/CVOF0817.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/DFXU1846.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/DFXU1846.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/DJDV7390.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/DJDV7390.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/DPIO3921.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/DPIO3921.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/DYHS7552.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/DYHS7552.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/ECFX1962.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/ECFX1962.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/EEIU1924.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/EEIU1924.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/EUGM4249.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/EUGM4249.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/EYCP7854.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/EYCP7854.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/FDAU0965.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/FDAU0965.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/FHFD1293.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/FHFD1293.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/FKKN5727.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/FKKN5727.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/FORY1943.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/FORY1943.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/GDML8172.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/GDML8172.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/GKTA7390.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/GKTA7390.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/GLRW0166.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/GLRW0166.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/GZIC3125.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/GZIC3125.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/HALW6837.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/HALW6837.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/IMG_4664.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/IMG_4664.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202506__/IXHS9375.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/IXHS9375.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/JAEC8733.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/JAEC8733.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/JCWN2151.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/JCWN2151.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/JEAF5099.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/JEAF5099.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/JWXC1871.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/JWXC1871.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/KUJK4070.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/KUJK4070.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/LFLG3188.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/LFLG3188.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/MGRJ7455.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/MGRJ7455.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/NIOQ6130.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/NIOQ6130.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/NKRK5197.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/NKRK5197.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/NPVE9835.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/NPVE9835.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/NSGS6636.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/NSGS6636.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/NTSQ2108.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/NTSQ2108.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/OOMG8329.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/OOMG8329.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/OTAY7092.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/OTAY7092.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/OVJO9632.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/OVJO9632.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/PKJW2372.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/PKJW2372.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/PRMK7818.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/PRMK7818.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/QBII7764.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/QBII7764.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/QIYG1257.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/QIYG1257.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/QQGO8859.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/QQGO8859.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/QTER6965.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/QTER6965.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/QYOB5099.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/QYOB5099.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/RCHH7693.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/RCHH7693.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/RCMQ0383.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/RCMQ0383.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/RHNV2655.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/RHNV2655.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/RLWD9568.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/RLWD9568.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/SDPV6054.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/SDPV6054.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/SKRI0657.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/SKRI0657.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/SKRO9035.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/SKRO9035.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/TEQW8703.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/TEQW8703.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/UAMN9877.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/UAMN9877.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/ULWA6473.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/ULWA6473.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/VGRT1197.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/VGRT1197.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/VKOB1976.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/VKOB1976.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/WBRK5151.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/WBRK5151.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/WCOR4796.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/WCOR4796.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/WHGR2895.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/WHGR2895.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/XIER4166.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/XIER4166.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/XSES4304.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/XSES4304.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/XUDC4434.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/XUDC4434.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202506__/XXYI7174.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202506__/XXYI7174.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/ACXJ7541.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/ACXJ7541.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/AGSQ8596.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/AGSQ8596.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/AJDM4169.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/AJDM4169.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/AXCA9324.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/AXCA9324.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/BJRV3057.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/BJRV3057.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/BUMN1216.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/BUMN1216.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/BXWN3671.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/BXWN3671.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/CJHC0858.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/CJHC0858.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/COGB4852.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/COGB4852.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/DDRV5492.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/DDRV5492.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/DIJK9325.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/DIJK9325.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/DLBT9446.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/DLBT9446.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/EFYT6706.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/EFYT6706.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/EJPC3864.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/EJPC3864.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/ERKT8863.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/ERKT8863.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/EVNC2523.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/EVNC2523.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/EZMQ4328.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/EZMQ4328.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/FPVK0741.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/FPVK0741.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/GAAQ8697.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/GAAQ8697.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/GBUU0167.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/GBUU0167.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/GMJR8882.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/GMJR8882.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/GVZN1032.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/GVZN1032.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/HICI7693.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/HICI7693.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/HIXN6400.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/HIXN6400.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/HKQA9706.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/HKQA9706.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/HYVG4387.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/HYVG4387.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/HZXC8318.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/HZXC8318.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/IKAG5709.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/IKAG5709.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/IMG_4929.MOV",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/IMG_4929.MOV",
+      "extension": ".mov"
+    },
+    {
+      "key": "videos/202507__/IOXY9381.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/IOXY9381.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/IVWK9395.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/IVWK9395.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/IYCI5056.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/IYCI5056.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/JHXT7955.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/JHXT7955.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/JZAQ2433.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/JZAQ2433.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/KASS7652.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/KASS7652.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/KFHG9655.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/KFHG9655.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/KFVY4151.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/KFVY4151.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/KHSL4333.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/KHSL4333.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/KJBT7094.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/KJBT7094.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/KPNF5706.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/KPNF5706.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/KSNG5799.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/KSNG5799.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/LDUC8500.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/LDUC8500.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/LETJ8355.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/LETJ8355.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/LTRS0222.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/LTRS0222.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/LUWN7272.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/LUWN7272.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/LXHD9858.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/LXHD9858.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/MOXV7182.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/MOXV7182.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/MQMY5414.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/MQMY5414.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/MRVC6764.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/MRVC6764.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/MZDX3313.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/MZDX3313.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/NGZU6633.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/NGZU6633.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/NLEB0338.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/NLEB0338.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/NNAA1578.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/NNAA1578.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/NUIU2611.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/NUIU2611.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/OQTN9288.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/OQTN9288.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/PDYX0203.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/PDYX0203.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/PHEA1423.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/PHEA1423.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/PNKC5590.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/PNKC5590.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/QJEQ8081.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/QJEQ8081.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/QTNH9291.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/QTNH9291.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/QULG0218.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/QULG0218.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/QUVO3233.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/QUVO3233.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/RAPA7369.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/RAPA7369.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/RCAO3129.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/RCAO3129.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/RKGO6417.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/RKGO6417.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/RQPO7803.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/RQPO7803.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/RTZQ2329.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/RTZQ2329.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/RZZI1100.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/RZZI1100.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/SFUB0422.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/SFUB0422.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/STCG2573.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/STCG2573.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/SXWQ6079.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/SXWQ6079.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/TEBV7292.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/TEBV7292.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/TEFT1862.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/TEFT1862.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/TIJP3255.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/TIJP3255.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/TIZP0206.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/TIZP0206.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/TPAY7473.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/TPAY7473.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/TPTE0158.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/TPTE0158.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/TVPF1505.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/TVPF1505.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/UBTJ6363.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/UBTJ6363.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/UDLK5068.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/UDLK5068.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/UPZT9650.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/UPZT9650.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/UQJY3800.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/UQJY3800.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/UWDE0394.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/UWDE0394.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/UXHC7126.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/UXHC7126.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/VFGH9674.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/VFGH9674.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/VGUR8789.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/VGUR8789.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/VKWQ2664.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/VKWQ2664.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/VSUR5577.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/VSUR5577.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/VXIX1670.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/VXIX1670.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/WDMJ2229.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/WDMJ2229.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/WELX9876.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/WELX9876.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/WFAE1718.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/WFAE1718.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/WHUW3816.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/WHUW3816.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/WSKY8986.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/WSKY8986.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/XBKD0739.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/XBKD0739.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/XCZV9899.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/XCZV9899.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/XDUL4294.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/XDUL4294.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/XSCB5341.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/XSCB5341.MP4",
+      "extension": ".mp4"
+    },
+    {
+      "key": "videos/202507__/XWBK2770.MP4",
+      "url": "https://cloudfront1.commodity-standards.com/videos/202507__/XWBK2770.MP4",
+      "extension": ".mp4"
+    }
+  ]
+}
